@@ -44,9 +44,7 @@ These functions provide the basic functionality for the token contract, includin
 
 
 ## Author
-Shivam Gupta 
-[shivamgupta5203@gmail.com]
-[21bcs6255@cuchd.in]
+Gurshabad Singh
 
 ## License
 This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) file for more information.
